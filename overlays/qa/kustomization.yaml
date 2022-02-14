@@ -5,7 +5,8 @@ kind: Kustomization
 bases:
 - ../../base
 
-resources: []
+resources:
+- ./buildconfig.yaml
 
 namespace: qa-alago
 

@@ -7,5 +7,5 @@ spec:
     spec:
       containers:
       - name: test
-        image: image-registry.openshift-image-registry.svc:5000/qa-alago/test:2022-02-15-18-31-05
+        image: image-registry.openshift-image-registry.svc:5000/qa-alago/test:1.0
 
